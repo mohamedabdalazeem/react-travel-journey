@@ -1,0 +1,42 @@
+
+body {
+  margin: 0px;
+}
+
+nav{
+  background-color:#F55A5A;
+  height: 55px;
+  text-align: center;
+}
+.nav-title {
+  margin: 0px;
+  line-height: 55px;
+  font-size: 15px;
+  color: white;
+}
+
+.journal-entry {
+  display: flex;
+  padding: 40px;
+  margin: 10px 40px;
+  border-bottom: 1px solid #F5F5F5;
+}
+
+.journal-img {
+  height: 270px;
+  width: 185px;
+  margin-right: 30px;
+  border-radius: 5px;
+}
+
+.journal-location {
+  display: inline-block;
+  margin-right: 15px;
+  letter-spacing: 0.17em;
+}
+
+.journal-link{
+  display: inline-block;
+  color: gray;
+
+}
